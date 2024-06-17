@@ -32,7 +32,7 @@ Added about 1 or 2 weeks later.
 Read [README](/evaluation/README.md) in evaluavtion directory.
 
 ## License
-This repository is MIT licensed, but [the publicly available trained model](https://huggingface.co/omine-me/LaughterSegmentation/tree/main) is currently available for non-commercial use only. (tentative. This will be subject to change.)
+This repository is MIT-licensed, but [the publicly available trained model](https://huggingface.co/omine-me/LaughterSegmentation/tree/main) is currently available for research use only.
 
 ## Contact
 Use Issues or reach out my [X(Twitter)](https://x.com/mineBeReal).
