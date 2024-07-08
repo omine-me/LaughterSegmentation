@@ -16,6 +16,8 @@ python -m pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index
 ```
 Run in Venv environment is recommended. Also, download `model.safetensors` from [Huggingface](https://huggingface.co/omine-me/LaughterSegmentation/tree/main) (1.26 GB) and place it in `models` directory and make sure the name is `model.safetensors`.
 
+Python<=3.11 is recommended.
+
 Tested on Windows 11 with GeForce RTX 2060 SUPER.
 
 ## Usage
