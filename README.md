@@ -7,7 +7,7 @@ Code, annotations, and model are described in the following paper:
 [Taisei Omine, Kenta Akita, and Reiji Tsuruno, "Robust Laughter Segmentation with Automatic Diverse Data Synthesis", Interspeech 2024.]() (To be published in a few months)
 
 ## Installation
-```sh
+```Batchfile
 git clone https://github.com/omine-me/LaughterSegmentation.git
 cd LaughterSegmentation
 python -m pip install -r requirements.txt
@@ -21,12 +21,17 @@ Tested on Windows 11 with GeForce RTX 2060 SUPER.
 ## Usage
 1. Prepare audio file.
 1. Open Terminal and go to the directory where `inference.py` is located.
-1. Run `python inference.py --audio_path audio.wav`. You have to change *audio.wav* to your own audio path. You can use common audio format like `mp3`, `wav`, `opus`, etc. 16kHz wav audio is faster.
+1. Run `python inference.py --audio_path audio.wav`. You have to change *audio.wav* to your own audio path. You can use common audio format like `mp3`, `wav`, `opus`, etc. 16kHz wav audio is faster. If the audio fails to load, run the following command and also download FFmpeg and add it to the PATH.
+    ```Batchfile
+    python -m pip uninstall pysoundfile
+    python -m pip uninstall soundfile
+    python -m pip install soundfile
+    ```
 1. If you want to change output directory, use  `--output_dir` option. If you want to use your own model, use `--model_path` option.
 1. Result will be saved in output directory in json format. To visualize the results, you can use [this site](https://omine-me.github.io/AudioDatasetChecker/compare.html) (not perfect because it's for debugging).
 
 ## Training
-Added about 1 or 2 weeks later.
+Read [README](/train/README.md) in train directory.
 
 ## Evaluation (Includes our evaluation dataset)
 Read [README](/evaluation/README.md) in evaluavtion directory.

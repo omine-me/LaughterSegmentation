@@ -1,0 +1,125 @@
+# List of manually collected laughter samples
+
+We collected additional 91 laughter samples, focusing on types of laughter not included in other datasets. (Modified) means that the part of the sound was manually clipped where there was no laughter and another sound was predominant.
+
+- youtube.com/@wondersharefilmora-jp
+    - Download from the description of [https://www.youtube.com/watch?v=czFuxidw9tU](https://www.youtube.com/watch?v=czFuxidw9tU). We used 7 out of 10 audio samples. (`4 Even More Laughter.wav`, `5 Fun Laughter.wav`, `6 Giggle.wav`, `7 Male Giggling.wav`, `8 More Laughter.wav`, `9 Suspicious Laugh.wav`, `10 Witch Laughter.wav`)
+
+- pixabay.com
+    - Children
+        - https://pixabay.com/sound-effects/3-155949/
+        - https://pixabay.com/sound-effects/baby-laughs-85161
+        - https://pixabay.com/sound-effects/baby-laughter-15233
+        - https://pixabay.com/sound-effects/baby-laughter2-15231
+        - https://pixabay.com/sound-effects/child-ha-ha-103936
+        - https://pixabay.com/sound-effects/child-laughing-90664
+        - https://pixabay.com/sound-effects/children_laughing-mike_koenig-575083331-99646
+        - https://pixabay.com/sound-effects/funny-secrect-laughing-baby-40554
+        - https://pixabay.com/sound-effects/giggling-6799
+        - https://pixabay.com/sound-effects/girl-laugh-6689
+        - https://pixabay.com/sound-effects/soft-laughing-6445
+        - https://pixabay.com/sound-effects/something-to-make-me-feel-better-75107
+    - Crowd
+        - https://pixabay.com/sound-effects/audience-laughing-6323
+        - (Modified) https://pixabay.com/sound-effects/crowd_laughingwav-14578
+        - (Modified) https://pixabay.com/sound-effects/laughter-29686
+        - (Modified) https://pixabay.com/sound-effects/small-group-laughing-6192
+    - Others
+        - (Modified) https://pixabay.com/sound-effects/cartoon-laugh-6457
+        - https://pixabay.com/sound-effects/possessed-laugh-94851
+- vsq.co.jp-plus-sound
+    - https://vsq.co.jp/plus/sound/category_sub/voice/
+        - 笑い　８ / (VSQSE_0699_laughter_08_lady.mp3)
+        - 笑い　７ / (VSQSE_0698_laughter_07_lady.mp3)
+        - 笑い　６ / 女性 (VSQSE_0697_laughter_06_lady.mp3)
+        - 笑い　５ / 女性 (VSQSE_0696_laughter_05_lady.mp3)
+        - 笑い　４ / 女性 (VSQSE_0695_laughter_04_lady.mp3)
+        - 笑い　３ / (VSQSE_0454_laughter_03.mp3)
+        - 笑い　２ / (VSQSE_0453_laughter_02.mp3)
+        - 笑い　１ / (VSQSE_0452_laughter_01.mp3)
+- commons.wikimedia.org
+    - https://commons.wikimedia.org/wiki/File:72843_lonemonk_approx-800-laughter-only-1.wav
+- zapsplat.com
+    - You need an account, and with a free account you have to wait 15 minutes for 3 sound downloads.
+    - https://www.zapsplat.com/music/18-month-old-boy-single-laugh/
+    - https://www.zapsplat.com/music/boy-3-years-old-english-laugh-1
+    - https://www.zapsplat.com/music/boy-3-years-old-english-laugh-2
+    - https://www.zapsplat.com/music/child-boy-6-years-old-short-laugh-3
+    - https://www.zapsplat.com/music/child-boy-6-years-old-short-laugh-5
+    - https://www.zapsplat.com/music/child-boy-aged-8-years-old-laughing-at-being-tickled-2
+    - (Modified) https://www.zapsplat.com/music/audience-laughter-200-people-1-man-louder-then-everyone-else-komedia-comedy-club-comic-boom-uk/
+    - https://www.zapsplat.com/music/audience-200-people-cheer-and-laughter-slightly-shocked-or-sympathetic-komedia-comedy-club-comic-boom-uk/
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-1
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-6
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-8
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-10
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-11
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-12
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-13
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-14
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-15
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-16
+    - https://www.zapsplat.com/music/audience-laughter-200-people-komedia-comedy-club-comic-boom-uk-17
+    - https://www.zapsplat.com/music/small-mixed-group-of-30-people-laughing-hard-with-decreasing-intensity-long
+    - https://www.zapsplat.com/music/2x-females-laughing-giggling
+    - https://www.zapsplat.com/music/male-crazy-laugh
+    - https://www.zapsplat.com/music/male-short-wheezy-laugh-5
+    - https://www.zapsplat.com/music/middle-aged-female-laugh-suddenly
+- mixkit.co
+    - https://mixkit.co/free-sound-effects/laugh/
+        - Big crowd laughing (mixkit-big-crowd-laughing-460.wav)
+        - Crowd laugh (mixkit-crowd-laugh-424.wav)
+        - Small man crowd laughing (mixkit-small-man-crowd-laughing-423.wav)
+        - Cartoon giggle (mixkit-cartoon-giggle-743.wav)
+        - Cartoon throat laugh (mixkit-cartoon-throat-laugh-745.wav)
+        - Child laughing happily (mixkit-child-laughing-happily-2263.wav)
+        - Evil dwarf laugh (mixkit-evil-dwarf-laugh-421.wav)
+        - Female cheerful laughter (mixkit-female-cheerful-laughter-416.wav)
+        - Female long laugh (mixkit-female-long-laugh-426.wav)
+        - Females laugh (mixkit-females-laugh-425.wav)
+        - Funny Giggling (mixkit-funny-giggling-2885.wav)
+        - Kid giggle laugh (mixkit-kid-giggle-laugh-431.wav)
+        - Laughing children indoors (mixkit-laughing-children-indoors-427.wav)
+        - Laughing teenager (mixkit-laughing-teenager-428.wav)
+        - Laughing teenagers (mixkit-laughing-teenagers-429.wav)
+        - (Modified) Person nasal laugh (mixkit-person-nasal-laugh-2883.wav)
+        - Woman hilarious laughing (mixkit-woman-hilarious-laughing-410.wav)
+- soundbible.com
+    - (Modified) https://soundbible.com/486-Laugh-And-Applause.html
+- uppbeat.io
+    - You need to login, and you can download 3 samples per month.
+    - (Modified) https://uppbeat.io/sfx/audience-clapping-laughing/9526/25581 (___audience-clapping-laughing_25581_0.mp3)
+    - https://uppbeat.io/browse/search?query=Audience%20laughs%20(Short)&type=sfx "Audience laughs (Short)"(audience-laughs-short_25589_0.mp3)
+    - https://uppbeat.io/sfx/laugh-track-crowd-chuckle/5808/20518 (laugh-track-crowd-chuckle_5808_20518.mp3)
+- fesliyanstudios.com
+    - https://www.fesliyanstudios.com/royalty-free-sound-effects-download/laughing-187
+    - "Indoors Medium Distance"
+        - Baby Hard Laughing Sound Effect (Baby-Hard-Laughing-www.fesliyanstudios.com.mp3)
+        - Baby Laughing Sound Effect (Baby-Laughing-www.fesliyanstudios.com.mp3)
+        - Evil Laugh A1 Sound Effect (Evil-Laugh-A1-www.fesliyanstudios.com.mp3)
+        - Funny Laugh A3 Sound Effect (Funny-Laugh-A3-www.fesliyanstudios.com.mp3)
+        - Funny Laugh C2 Sound Effect (Funny-Laugh-C2-www.fesliyanstudios.com.mp3)
+        - Funny Laugh C4 Sound Effect (Funny-Laugh-C4-www.fesliyanstudios.com.mp3)
+        - Little Girl Laughing A1 Sound Effect (Little-Girl-Laughing-A1-www.fesliyanstudios.com.mp3)
+- samplefocus.com
+    - You need an account.
+    - https://samplefocus.com/samples/female-laugh-c
+    - https://samplefocus.com/samples/female-laughing
+    - https://samplefocus.com/samples/giggle-ab2bebb6-27ba-49eb-9df6-ec6af86fea98
+    - https://samplefocus.com/samples/great-giggle-laugh
+    - https://samplefocus.com/samples/laughing-person
+
+---
+
+FYI, not used this time but good samples.
+- koukaon.g-sozai.com
+    - https://koukaon.g-sozai.com/se-0185.html
+    - https://koukaon.g-sozai.com/se-389.html
+    - https://koukaon.g-sozai.com/se-550.html
+    - https://koukaon.g-sozai.com/se-551.html
+    - https://koukaon.g-sozai.com/se-552.html
+    - https://koukaon.g-sozai.com/se-553.html
+    - https://koukaon.g-sozai.com/se-554.html
+    - https://koukaon.g-sozai.com/se-555.html
+    - https://koukaon.g-sozai.com/se-556.html
+    - https://koukaon.g-sozai.com/se-557.html
