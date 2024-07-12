@@ -23,7 +23,7 @@ If you wish to evaluate your own model or infer the results from scratch, follow
         1. Extract and copy `words` directory to `./original_anotation_data`.
         1. Run `extract_laughter.py` in the dataset directory.
     - Gillick2021
-        - This is an evaluation dataset based on [Gillick2021](https://github.com/jrgillick/laughter-detection/tree/master) & [AudioSet](https://groups.inf.ed.ac.uk/ami/corpus/). You need to download audio.
+        - This is an evaluation dataset based on [Gillick2021](https://github.com/jrgillick/laughter-detection/tree/master) & [AudioSet](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet). You need to download audio.
         1. Download `eval_segments.csv`, `balanced_train_segments.csv`, and `unbalanced_train_segments.csv` from [AudioSet website](https://research.google.com/audioset/download.html).
         1. Download `clean_distractor_annotations.csv`, and `clean_laughter_annotations.csv` from [GitHub](https://github.com/jrgillick/laughter-detection/tree/master/data/audioset/annotations) (Alternatively, it is automatically included when the repository is cloned, as described below.).
         1. Download audio from YouTube. VideoID is written in csv from GitHub, and time is written in csv from AudioSet. Or you can refer to `gt` directory to see which audio you need (time info isn't written). For various reasons, some video is not available.
