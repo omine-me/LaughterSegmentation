@@ -36,12 +36,12 @@ def get_audio_path(audio_dir, basename):
 
 def get_audio_length(audio_dir, basename, audio_length_cache):
     audio_file = get_audio_path(audio_dir, basename)
-    if audio_file in audio_length_cache:
-        audio_length = audio_length_cache[audio_file]
+    if basename in audio_length_cache:
+        audio_length = audio_length_cache[basename]
     else:
         with audioread.audio_open(audio_file) as f:
             audio_length = float(f.duration)
-        audio_length_cache[audio_file] = audio_length
+        audio_length_cache[basename] = audio_length
     return audio_length
 
 def get_basename(eval_file, dataset_name):
@@ -112,9 +112,9 @@ def main(dataset_name, neg_sample_scale=4):
     print(f"Using {dataset_name} dataset")
     _debug_gallick_samples = set()
     _debug_ours_samples = set()
-    # for model_name in os.listdir(model_dir):#["ours"]:
+    for model_name in os.listdir(model_dir):#["ours"]:
     # for model_name in ["ours"]:
-    for model_name in ["Gillick2021_with_ourData"]:
+    # for model_name in ["Gillick2021_with_ourData"]:
 
         _variant_if_any = ""
         if model_name == "ours":
@@ -295,7 +295,6 @@ def main(dataset_name, neg_sample_scale=4):
         print(f"Start MAE: {r(mae_start[0])}±{(r(mae_start[1][1]-mae_start[1][0])/2)}")
         mae_end = evaluate_with_conf_int(np.array(tp_diff_end), mean_absolute_error, np.array([0]*len(tp_diff_end)), conditions=None, num_bootstraps=len(tp_diff_end), alpha=5)
         print(f"End MAE: {r(mae_end[0])}±{(r(mae_end[1][1]-mae_end[1][0])/2)}")
-            
 
 if __name__ == '__main__':
     # main("Petridis2013", 2.6)

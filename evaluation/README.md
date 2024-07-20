@@ -1,7 +1,7 @@
 # Evaluation
 We evaluate our paper with four evaluation datasets. `datasets` directory contains evaluation datasets. `models` directory contains the inference results and inference codes for each model.
 
-If you want to get the same results as in the paper, get audio datasets first as written below, and run `evaluate.py` in the same directory. Comment out the end of the file accordingly. (We will eventually improve the script so that audio files are not needed.)
+If you want to get the same results as in the paper, run `evaluate.py` in the same directory. Comment out the end of the file accordingly. (The `cache` directory contains the audio length data, so that you don't have to download datasets just to show the evaluation results.)
 
 If you wish to evaluate your own model or infer the results from scratch, follow these steps.
 
