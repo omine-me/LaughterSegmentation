@@ -4,7 +4,7 @@
 You can extract a exact segment of laughter from various talking audio using trained model and code. You can also train your own model.
 
 Code, annotations, and model are described in the following paper:
-[Taisei Omine, Kenta Akita, and Reiji Tsuruno, "Robust Laughter Segmentation with Automatic Diverse Data Synthesis", Interspeech 2024.]() (To be published in a few months)
+Taisei Omine, Kenta Akita, and Reiji Tsuruno, "Robust Laughter Segmentation with Automatic Diverse Data Synthesis", Interspeech 2024. [(temporary link)](https://drive.google.com/file/d/1WqYKGvCC3b-l8zN06ESh8GlcqJyC9hLm/view?usp=sharing)
 
 ## Installation
 ```Batchfile
