@@ -4,7 +4,7 @@
 You can extract a exact segment of laughter from various talking audio using trained model and code. You can also train your own model.
 
 Code, annotations, and model are described in the following paper:
-Taisei Omine, Kenta Akita, and Reiji Tsuruno, "Robust Laughter Segmentation with Automatic Diverse Data Synthesis", Interspeech 2024. [(temporary link)](https://drive.google.com/file/d/1WqYKGvCC3b-l8zN06ESh8GlcqJyC9hLm/view?usp=sharing)
+[Taisei Omine, Kenta Akita, and Reiji Tsuruno, "Robust Laughter Segmentation with Automatic Diverse Data Synthesis", Interspeech 2024.](https://doi.org/10.21437/Interspeech.2024-1644)
 
 ## Installation
 ```Batchfile
@@ -40,6 +40,21 @@ Read [README](/evaluation/README.md) in evaluavtion directory.
 
 ## License
 This repository is MIT-licensed, but [the publicly available trained model](https://huggingface.co/omine-me/LaughterSegmentation/tree/main) is currently available for research use only.
+
+## Citation
+Cite as: `Omine, T., Akita, K., Tsuruno, R. (2024) Robust Laughter Segmentation with Automatic Diverse Data Synthesis. Proc. Interspeech 2024, 4748-4752, doi: 10.21437/Interspeech.2024-1644`
+
+or
+```
+@inproceedings{omine24_interspeech,
+  title     = {Robust Laughter Segmentation with Automatic Diverse Data Synthesis},
+  author    = {Taisei Omine and Kenta Akita and Reiji Tsuruno},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {4748--4752},
+  doi       = {10.21437/Interspeech.2024-1644},
+}
+```
 
 ## Contact
 Use Issues or reach out my [X(Twitter)](https://x.com/mineBeReal).
